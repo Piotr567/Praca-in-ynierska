@@ -1,2 +1,2 @@
 # Praca inżynierska
-# Sztuczna inteligencja w urządzeniach elektronicznych
+Sztuczna inteligencja w urządzeniach elektronicznych
